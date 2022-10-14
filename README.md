@@ -224,20 +224,11 @@ docker container restart slim
 add and/or remove slim site folders and files with any ftp client program in ```./slim/webapp``` folder.
 <br />You can also visit `https://example.com` to access website after starting the containers.
 
-#### Redis
+#### HTTP Caching
 
-[Redis Cache](#); This article explains how to configure the Redis adapter when using the Cache as an independent component in any PHP application..
+[HTTP Cache](https://www.slimframework.com/docs/v3/features/caching.html); Slim 4 uses the optional standalone slimphp/Slim-HttpCache PHP component for HTTP caching.
 
-Available options are:
-
-```
-$config = [
-        'schema' => 'tcp',
-        'host' => 'redis',
-        'port' => 6379,
-        // other options
-    ];
-```
+Installed package and ready to use.
 
 ### phpMyAdmin
 
