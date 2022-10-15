@@ -10,7 +10,7 @@ Plus, manage docker containers with Portainer.
 
 #### With this project you can quickly run the following:
 
-- [Slim](https://github.com/slim) - [php-fpm](https://hub.docker.com/_/php?tab=tags&page=1&name=fpm)
+- [Slim](https://github.com/slimphp) - [php-fpm](https://hub.docker.com/_/php?tab=tags&page=1&name=fpm)
 - [webserver (apache2/httpd)](https://hub.docker.com/_/httpd)
 - [certbot (letsencrypt)](https://hub.docker.com/r/certbot/certbot)
 - [phpMyAdmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/)
