@@ -1,6 +1,6 @@
 # [full stack apache2 Slim for everyone with docker compose](https://github.com/damalis/full-stack-apache2-slim-for-everyone-with-docker-compose)
 
-If You want to build a website with Slim "webapp" at short time; 
+If You want to build a website with Slim "webapp" at short time;
 
 #### Full stack Apache2 Slim "webapp":
 <p align="left"> <a href="https://www.slimframework.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/11195762?s=200&v=4" alt="Slim" height="40" width="40"/> </a>&nbsp;&nbsp;&nbsp; 
@@ -72,7 +72,7 @@ Create rules to open ports to the internet, or to a specific IPv4 address or ran
 	- [Redis](#redis)
 	- [Cache](#cache)
 	- [phpMyAdmin](#phpmyadmin)
-	- [backup](#backup)					  
+	- [backup](#backup)
 
 ## Automatic
 
